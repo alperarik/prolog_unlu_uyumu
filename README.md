@@ -1,4 +1,4 @@
-# prolog unlu uyumu
+# prolog ünlü uyumu
 Prolog ile kelimelerin büyük ünlü ve küçük ünlü uyumu
 
 Örnek prolog komutu
